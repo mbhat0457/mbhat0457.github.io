@@ -1,2 +1,1 @@
-# https://mbhat0457.github.io
-Cricket
+# http://mbhat0457.github.io
