@@ -1,0 +1,40 @@
+
+body{
+    background-color:#4eb8f5;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 800px;
+    padding: 10px;
+    border: #f5bb4e;
+    border-style: double;
+    border-width: 10px;
+    
+}
+
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: #3701f8
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    color: #f0a315;
+    border: #258b10f8 5px solid;
+}
